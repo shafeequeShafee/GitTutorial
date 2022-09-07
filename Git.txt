@@ -47,7 +47,18 @@ git config  user.email "shaaa@gmail.com"
 git init gitTutorial
 git init
 
-/////////// commit
+/////////// commit 
 to commit (use "git add" and/or "git commit -a")
 
+// it add Git.txt file  to staging area, it is now a  tracking file
 git add Git.txt
+
+ 
+git commit -m "updated"     (message)
+
+git log    (to know the details of commit)
+
+// njammakku commit cheyumbol ulla msg mattannekil =>  git commit --amend -m "hi updated git.txt"
+
+// single file staging area add cheyyannekil => git add Git.txt
+// ellaa file sum staging area kku add cheyannekil => git add .
