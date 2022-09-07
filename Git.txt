@@ -27,14 +27,16 @@ git init => commit ..... =>
 
 
 
-//////////  commands ////////////////
+///////////////////  commands   ////////////////////////////
 // => git --version
 // root directorikku pokennekil => cd ~
 // git folderintae ullil pokennekil =>  cd .git
 // avidunnu conig kannanekil => cat config
 // status => git status
 
-//////////// configure git 
+
+
+///////////////////   configure git   ///////////////////////////////
 git config --global user.name "sfq"
 git config --global user.email "sfq@gmail.com"
 
@@ -43,11 +45,14 @@ git config  user.name "shaaaa"
 git config  user.email "shaaa@gmail.com"
 
 
-//////////// initialising repository
+///////////////////   initialising repository  /////////////////////////////
 git init gitTutorial
 git init
 
-/////////// commit 
+
+
+
+////////////////////////////   commit    /////////////////////////////
 to commit (use "git add" and/or "git commit -a")
 
 // it add Git.txt file  to staging area, it is now a  tracking file
@@ -62,3 +67,11 @@ git log    (to know the details of commit)
 
 // single file staging area add cheyyannekil => git add Git.txt
 // ellaa file sum staging area kku add cheyannekil => git add .
+// status kannan  => git status
+// git log one linie nil kannennekil => git log --oneline 
+
+//// enee egannae njammllu commit cheytha stage ilekku jump cheyyaaam  (Checkout commits)
+
+git log --oneline   => ella commitsum verum , nnit athintae id edukkukkaa
+git checkout 9edb042 
+
