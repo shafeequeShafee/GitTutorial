@@ -82,5 +82,5 @@ git checkout 9edb042
 // deleted main.js file
 // copy the deleted commit id => git revert f5abd48
 
-/////
+
 
