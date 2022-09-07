@@ -75,3 +75,5 @@ git log    (to know the details of commit)
 git log --oneline   => ella commitsum verum , nnit athintae id edukkukkaa
 git checkout 9edb042 
 
+// thirich athillottu thennae pokkennekil => git checkout master
+
