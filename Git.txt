@@ -1,0 +1,14 @@
+Git- Distributed Version Control system.
+SCM - Source Code Management.
+
+/// clone branch
+git clone -b <branchname> <remote-repo-url>
+
+/// merge concept -  example 
+ version 4.7 -master
+ pinnae njammallu puthiya branch create cheyyum, version 5.0 -dev
+ ath stable annekil eth randum njammakku merge cheyyaam, athayath pinnae out , version 5.0 -master
+
+ randum merge cheyannekil =>
+
+
