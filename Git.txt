@@ -4,11 +4,17 @@ SCM - Source Code Management.
 /// clone branch
 git clone -b <branchname> <remote-repo-url>
 
-/// merge concept -  example 
+///// merge concept -  example  ///////////
+
  version 4.7 -master
  pinnae njammallu puthiya branch create cheyyum, version 5.0 -dev
  ath stable annekil eth randum njammakku merge cheyyaam, athayath pinnae out , version 5.0 -master
 
- randum merge cheyannekil =>
+ randum merge cheyannekil =>compare and pull request
+
+/////  Github Fork  //////////
+
+njammakku mattulllavarudae project use cheyyaan , allekil athillekku contribute cheyyaan use cheyunnath
 
 
+///How to upload a project on Github using Eclipse /////
