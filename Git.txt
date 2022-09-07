@@ -1,6 +1,8 @@
 Git- Distributed Version Control system.
 SCM - Source Code Management.
 
+///////  Github , GitLab , Bitbucket are cloud services to host your git repositories.
+
 /// clone branch
 git clone -b <branchname> <remote-repo-url>
 
@@ -16,5 +18,36 @@ git clone -b <branchname> <remote-repo-url>
 
 njammakku mattulllavarudae project use cheyyaan , allekil athillekku contribute cheyyaan use cheyunnath
 
+////////// STEPS /////
+git init => commit ..... =>
 
-///How to upload a project on Github using Eclipse /////
+//// Branching //////////
+/// Merging branches ///////
+
+
+
+
+//////////  commands ////////////////
+// => git --version
+// root directorikku pokennekil => cd ~
+// git folderintae ullil pokennekil =>  cd .git
+// avidunnu conig kannanekil => cat config
+// status => git status
+
+//////////// configure git 
+git config --global user.name "sfq"
+git config --global user.email "sfq@gmail.com"
+
+// change username and email
+git config  user.name "shaaaa"
+git config  user.email "shaaa@gmail.com"
+
+
+//////////// initialising repository
+git init gitTutorial
+git init
+
+/////////// commit
+to commit (use "git add" and/or "git commit -a")
+
+git add Git.txt
