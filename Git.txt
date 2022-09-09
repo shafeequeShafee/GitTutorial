@@ -84,7 +84,7 @@ git checkout 9edb042
 // 
 /////////////
 
-//////////////////////       ///////////////////////
+//////////////////////  git rm (remove cheyyannekil)     ///////////////////////
 mkdir private
 cd private 
 // main directorikku pokennekil =>  cd ..
@@ -101,10 +101,26 @@ private/
 // athil oru file aannekil just aa file ntae bame eyuthukkaaa
 main2.js
 
-////////  git reset /////////////////
+
+/////////////////////  git reset  /////////////////////////////////
 // njan oru heading add cheythu index.html nnu
 //ennit commit cheythu, pinnae enik thonni enik ath vendaa nnu, appo ath kalayannekil
 => git reset 72b7ac0  ===> ethillekku aano aa id
+
+// enee aa details athil illathae akkannekil
+=> git reset 72b7ac0 --hard
+
+///ethilannu changes veruthiyath///
+
+///////////////////  git merging  ///////////////////////
+
+njammakku eppo kurae commits nd, pakshae njammkku oru 3 commits mathiyo vicharicho,
+bakki ellaa commitsum 3rd commitlekku merge cheyuunnu
+
+git rebase -i HEAD~5
+
+
+
 
 
 
