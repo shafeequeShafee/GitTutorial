@@ -101,11 +101,10 @@ private/
 // athil oru file aannekil just aa file ntae bame eyuthukkaaa
 main2.js
 
-
 ////////  git reset /////////////////
 // njan oru heading add cheythu index.html nnu
 //ennit commit cheythu, pinnae enik thonni enik ath vendaa nnu, appo ath kalayannekil
-git reset
+=> git reset 72b7ac0  ===> ethillekku aano aa id
 
 
 
