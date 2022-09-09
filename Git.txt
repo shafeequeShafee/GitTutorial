@@ -84,6 +84,23 @@ git checkout 9edb042
 // 
 /////////////
 
+//////////////////////       ///////////////////////
+mkdir private
+cd private 
+// main directorikku pokennekil =>  cd ..
+
+// njammkku oru folder remove cheyyennekil
+// main directerikku verukkaa, nnit 
+//=> git rm -r --cached private
+//files remove cheyyenekil => git rm --cached main3.js
+
+//////////////////////   gitignore   //////////////////////////////////
+.gitignore 
+// athil oru folder oyivakkenekil  athil just write cheyukkaa
+private/
+// athil oru file aannekil just aa file ntae bame eyuthukkaaa
+main2.js
+
 
 
 
