@@ -102,5 +102,12 @@ private/
 main2.js
 
 
+////////  git reset /////////////////
+// njan oru heading add cheythu index.html nnu
+//ennit commit cheythu, pinnae enik thonni enik ath vendaa nnu, appo ath kalayannekil
+git reset
+
+
+
 
 
