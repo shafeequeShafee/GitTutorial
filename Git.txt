@@ -83,7 +83,6 @@ git checkout 9edb042
 // copy the deleted commit id => git revert f5abd48
 // 
 /////////////
-esc + shift+colon+wq
 
 
 
