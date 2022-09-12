@@ -145,6 +145,11 @@ undoing merging of branches => git reset --hard d88df44 (last merge cheyunnathin
 
 /// => git merge xyz --squash (otta comment aayi kittannekil)
 
+///////////////  git stash ///////////////////
+njammallu last commit cheythu, ennit kurae code veendum add cheythu , but ath pinnae vendaa nnu vicharichu,
+appo pazhae code illekku thennae verannekil => git stash 
+
+
 
 
 
