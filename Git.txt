@@ -168,6 +168,7 @@ appo pazhae code illekku thennae verannek
 // to delete branch we can use  both of them
 // =>git branch -d xyz
 // =>git branch -D xyz
+// creating branch =>  git checkout -b xyz
 
 
 
