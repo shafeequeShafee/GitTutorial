@@ -128,7 +128,7 @@ then presss => esc + shift + : and write => wq
 last ellaam koodi oru msg aakan => git commit --amend -m "added all msg to one"
 
 
-
+//////////////   git branches //////////////////////
 
 
 
