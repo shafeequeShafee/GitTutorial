@@ -140,7 +140,10 @@ git checkout -b xyz
 
 /// enee xyz dum masterum merge cheyyannekil =>
 switch to master branch => git checkout master
+                        => git merge xyz
+undoing merging of branches => git reset --hard d88df44 (last merge cheyunnathinnu mubulla commit id)
 
+/// => git merge xyz --squash (otta comment aayi kittannekil)
 
 
 
