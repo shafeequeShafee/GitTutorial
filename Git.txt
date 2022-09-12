@@ -119,6 +119,15 @@ bakki ellaa commitsum 3rd commitlekku merge cheyuunnu
 
 git rebase -i HEAD~5
 
+PRESS i=> go to insert mode
+then edit example => pick 262037b changes added => p 262037b changes added
+                     pick e9dd99f changes added in git.txt =>  s e9dd99f changes added in git.txt
+                     pick b427618 changes added in git.txt =>  s b427618  changes added in git.txt
+then presss => esc + shift + : and write => wq
+
+last ellaam koodi oru msg aakan => git commit --amend -m "added all msg to one"
+
+
 
 
 
