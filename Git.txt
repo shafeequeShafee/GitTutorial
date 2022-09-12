@@ -129,7 +129,9 @@ last ellaam koodi oru msg aakan => git commit --amend -m "added all msg to one"
 
 
 //////////////   git branches //////////////////////
-
+=> git branch
+=> git branch xyz
+=> git checkout xyz (aa branchillekku maaraan)
 
 
 
