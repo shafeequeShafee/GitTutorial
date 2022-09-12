@@ -132,6 +132,11 @@ last ellaam koodi oru msg aakan => git commit --amend -m "added all msg to one"
 => git branch
 => git branch xyz
 => git checkout xyz (aa branchillekku maaraan)
+=> git branch -d xyz (to delete branch)
+
+/// direct aayi branch indakki athillekku marannekil
+
+git checkout -b xyz
 
 
 
