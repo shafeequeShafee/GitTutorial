@@ -150,6 +150,7 @@ undoing merging of branches => git reset --hard d88df44 (last merge cheyunnathin
 appo pazhae code illekku thennae verannekil => git stash 
 
 // enee kalanja details verannekil => git stash apply
+// enee stash cheytha list edukkennekil => git stash list
 
 
 
