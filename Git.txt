@@ -176,9 +176,17 @@ appo pazhae code illekku thennae verannek
 => git merge xyz --squash
 
 
-
-
 // git reset --hard
+
+
+///////////////   GitHub ////////////////////////
+// aathyam git hub il oru repository create cheyukkaa
+// => git remote add origin https://github/repositoryUrl.git
+//=> git remote -v
+//=> git push origin master
+//=>git push origin xyz
+
+
 
 
 
