@@ -138,6 +138,9 @@ last ellaam koodi oru msg aakan => git commit --amend -m "added all msg to one"
 
 git checkout -b xyz
 
+/// enee xyz dum masterum merge cheyyannekil =>
+switch to master branch => git checkout master
+
 
 
 
