@@ -173,6 +173,10 @@ appo pazhae code illekku thennae verannek
 // then => git merge xyz
 
 // simply akkannekil 
+=> git merge xyz --squash
+
+
+
 
 // git reset --hard
 
