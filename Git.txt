@@ -165,6 +165,9 @@ appo pazhae code illekku thennae verannek
 
 
 //////////////////  branches with conflicts /////////////////
+// to delete branch we can use  both of them
+// =>git branch -d xyz
+// =>git branch -D xyz
 
 
 
