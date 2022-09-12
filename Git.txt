@@ -152,6 +152,11 @@ appo pazhae code illekku thennae verannekil => git stash
 // enee kalanja details verannekil => git stash apply
 // enee stash cheytha list edukkennekil => git stash list
 
+// eganneyum kodukkaam=>git stash push -m "added final features"
+// enee ethekillum stash remove cheyyannekil => git stash list
+                                             => git stash drop 2   =~(2 index) 
+// enee njammak ethekillum onn final aayi select cheyannekil => git stash pop 1 (1 index)
+
 
 
 
