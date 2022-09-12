@@ -172,6 +172,9 @@ appo pazhae code illekku thennae verannek
 // go to master branch =>git checkout master
 // then => git merge xyz
 
+// simply akkannekil 
+
+// git reset --hard
 
 
 
