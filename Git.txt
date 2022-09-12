@@ -169,6 +169,8 @@ appo pazhae code illekku thennae verannek
 // =>git branch -d xyz
 // =>git branch -D xyz
 // creating branch =>  git checkout -b xyz
+// go to master branch =>git checkout master
+// then => git merge xyz
 
 
 
